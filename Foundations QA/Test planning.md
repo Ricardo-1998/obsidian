@@ -36,6 +36,7 @@ The definition of done specifies when testing is complete .
 
 TIPOS DE TESTS
 [[BOXtesting]]
+[[securityTesting]]
 
 
 

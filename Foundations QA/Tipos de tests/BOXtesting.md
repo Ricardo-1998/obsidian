@@ -1,7 +1,7 @@
 Black box testing(QA)
 Cuando la caja esta oculta y no es posible ver adentro.
 Los escenarios aqui examinan el producto desde afuera, lo que significa que no necesitamos saber lo interno de la app.
-Incluye [[Manualtesting]] y [[UI automation testing]],[[performance testing]]
+Incluye [[Manualtesting]] y [[UI automation testing]],[[Foundations QA/Tipos de tests/performance testing]]
 
 Gray box testin(QA y developers)
 Semitransparente
@@ -16,3 +16,4 @@ TRANSPARENTE
 Se enfoca en lo interno de la aplicacion y que es lo que pasa a nivel del codigo
 
 Unit y system testing, estos son responsable de los desarrrolladores
+[[BUGS]]

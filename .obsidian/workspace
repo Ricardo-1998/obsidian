@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "db75ba228a1af224",
+        "id": "7aed923a9904e233",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Foundations QA/SDLC(software development life cycle).md",
+            "file": "Behavior-driven development/behaving agilely/TDD y BDD.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297
+    "width": 196
   },
   "right": {
     "id": "0d2a5ebefb772473",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations QA/SDLC(software development life cycle).md",
+                "file": "Behavior-driven development/behaving agilely/TDD y BDD.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,19 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 179
+    "width": 100
   },
-  "active": "db75ba228a1af224",
+  "active": "7aed923a9904e233",
   "lastOpenFiles": [
-    "Foundations QA/SDLC(software development life cycle).md",
-    "Foundations QA/Role de QA.md",
-    "Foundations QA/QA.md",
-    "Automation Foundations/Untitled.md",
-    "Untitled.md",
-    "Tipos de tests/BUGS.md",
-    "Role de QA.md",
-    "Principios de DevOps.md",
-    "Pasted image 20210512174132.png",
-    "Pasted image 20210512173950.png"
+    "Behavior-driven development/behaving agilely/Untitled.md",
+    "Behavior-driven development/behaving agilely/Agile.md",
+    "Pasted image 20210514121710.png",
+    "Pasted image 20210514121457.png",
+    "API testing foundations/Resumen.md",
+    "API testing foundations/Introduccion APIs/API testing risk.md",
+    "API testing foundations/Untitled.md",
+    "API testing foundations/API testing strategy/microservices y internet of things.md",
+    "API testing foundations/API testing strategy/performance  y security testing.md",
+    "API testing foundations/API testing strategy/Post testing , put y delete.md"
   ]
 }

@@ -1,0 +1,1 @@
+7\. WebDriver API — Selenium Python Bindings 2 documentation (selenium-python.readthedocs.io)](https://selenium-python.readthedocs.io/api.html)
