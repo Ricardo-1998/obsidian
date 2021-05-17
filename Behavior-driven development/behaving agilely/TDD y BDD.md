@@ -25,4 +25,24 @@ Este vino por las fallas del modelo tradicional de software development
 
 Porque es tan convincente? Porque nos permite entender el problema, ejemplo de la compañia VANGUARD
 
+Puntos de inicio en BDD
+Los clientes ya entienden  el producto que quieren
+El criterio de aceptacion debe estar definido o en su mayoria
+La historias de usario ya deben estar escritas
+
+Para hacer unas buenas historias de usuario y no tener mala idea con el criterio de aceptacion se puede usar el card mapping.
+El tiempo es crucial.
+
+
+BDD se trata sobre dar  [Ejemplos concretos]para que todos entiendan como implementar una solucion.
+Estos ejemplos concretos tienen:
+-La historias de usuarios son muy detalladas y llenas de contexto.
+-Ejemplos bien definidos nos permite tener test mas robustos y enfocados
+-Si los ejemplos son abstreactos, costara mas crear test  que cuenten.
+
+Formato de escenario BDD
+-Scenariio: historia de usuario
+-Given: algunas condiciones iniciales
+-When: cuando un evento ocurre
+-THEN: la salida
 

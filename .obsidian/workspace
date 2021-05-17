@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Behavior-driven development/behaving agilely/TDD y BDD.md",
+            "file": "Behavior-driven development/Example/Gherkin specifications.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Behavior-driven development/behaving agilely/TDD y BDD.md",
+                "file": "Behavior-driven development/Example/Gherkin specifications.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "7aed923a9904e233",
   "lastOpenFiles": [
-    "Behavior-driven development/behaving agilely/Untitled.md",
-    "Behavior-driven development/behaving agilely/Agile.md",
-    "Pasted image 20210514121710.png",
-    "Pasted image 20210514121457.png",
+    "Behavior-driven development/Example/Gherkin specifications.md",
+    "Gherkin sintax.png",
+    "Behavior-driven development/Example/Three amigos.md",
+    "Pasted image 20210517100250.png",
+    "Pasted image 20210517100244.png",
+    "Behavior-driven development/Example/Untitled.md",
+    "Behavior-driven development/behaving agilely/TDD y BDD.md",
     "API testing foundations/Resumen.md",
-    "API testing foundations/Introduccion APIs/API testing risk.md",
-    "API testing foundations/Untitled.md",
-    "API testing foundations/API testing strategy/microservices y internet of things.md",
-    "API testing foundations/API testing strategy/performance  y security testing.md",
-    "API testing foundations/API testing strategy/Post testing , put y delete.md"
+    "Behavior-driven development/behaving agilely/Untitled.md",
+    "Behavior-driven development/behaving agilely/Agile.md"
   ]
 }
